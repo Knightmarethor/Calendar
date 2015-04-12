@@ -63,9 +63,7 @@ namespace Calendar
 
         private void OKButton_Click(object sender, EventArgs e)
         {
-            
-            // TODO: Add validation for repeat frequency.
-            
+                        
             DialogResult = System.Windows.Forms.DialogResult.OK;
             Close();
 

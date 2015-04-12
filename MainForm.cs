@@ -322,8 +322,10 @@ namespace Calendar
         {
             // Raised by selecting Delete on the content menu
 
-            // TODO - You need to complete this method
-            // _SelectedAppointment is set to the instance of the appointment to be deleted
+         
+            _Appointments.Remove(_SelectedAppointment);
+            RefreshAppointments();
+
         }
 
     }

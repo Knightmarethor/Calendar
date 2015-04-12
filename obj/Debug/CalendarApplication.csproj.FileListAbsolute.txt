@@ -37,3 +37,13 @@ C:\Users\Ryan\Desktop\Calendar\obj\Debug\Calendar.EditAppointmentForm.resources
 C:\Users\Ryan\Desktop\Calendar\obj\Debug\Calendar.MainForm.resources
 C:\Users\Ryan\Desktop\Calendar\obj\Debug\Calendar.Properties.Resources.resources
 C:\Users\Ryan\Desktop\Calendar\obj\Debug\CalendarApplication.csproj.GenerateResource.Cache
+C:\Dev\Calendar\bin\Debug\CalendarApplication.exe.config
+C:\Dev\Calendar\obj\Debug\CalendarApplication.exe
+C:\Dev\Calendar\obj\Debug\CalendarApplication.pdb
+C:\Dev\Calendar\bin\Debug\CalendarApplication.exe
+C:\Dev\Calendar\bin\Debug\CalendarApplication.pdb
+C:\Dev\Calendar\obj\Debug\CalendarApplication.csprojResolveAssemblyReference.cache
+C:\Dev\Calendar\obj\Debug\Calendar.EditAppointmentForm.resources
+C:\Dev\Calendar\obj\Debug\Calendar.MainForm.resources
+C:\Dev\Calendar\obj\Debug\Calendar.Properties.Resources.resources
+C:\Dev\Calendar\obj\Debug\CalendarApplication.csproj.GenerateResource.Cache

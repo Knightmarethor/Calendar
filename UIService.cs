@@ -107,7 +107,7 @@ namespace Calendar
                         isValid = false;
                     }
 
-                    // TODO: Also validate the Repeat Frequency and TotalRepitions values
+                 
 
                     if (isValid)
                     {
@@ -131,6 +131,8 @@ namespace Calendar
 
             return EditAppointmentResult.Fail();
         }
+
+
 
 
     }
