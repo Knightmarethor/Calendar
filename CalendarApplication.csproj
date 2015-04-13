@@ -63,7 +63,7 @@
   <ItemGroup>
     <Compile Include="Appointments.cs" />
     <Compile Include="Appointment.cs" />
-    <Compile Include="CreateAppointmentResult.cs" />
+    <Compile Include="EditAppointmentResult.cs" />
     <Compile Include="EditAppointmentForm.cs">
       <SubType>Form</SubType>
     </Compile>

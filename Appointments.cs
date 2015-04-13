@@ -15,7 +15,7 @@ namespace Calendar
         // This inherits from a list of classes from IAppointment interface but also IAppointments.
         // The _filePath string is private static and readonly so that it not only cannot be changed but cannot be called outside of this class.
      
-        private static readonly string _filePath = @"C:\tmp\C.txt";
+        private static readonly string _filePath = "Appointment.csv";
         //This method is used to Load a file from memory in which to load appointments from.
         
         public bool Load()

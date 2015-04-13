@@ -25,6 +25,7 @@ namespace Calendar
             var editResult = EditAppointmentCore(appt, isRecurring);
             if (!editResult.IsSuccess)
                 return;
+           
 
             // Save it by inserting into storage
             CalendarApplication.MainForm._Appointments.Add(appt);
