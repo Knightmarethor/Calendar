@@ -325,6 +325,7 @@ namespace Calendar
          
             _Appointments.Remove(_SelectedAppointment);
             RefreshAppointments();
+            _Appointments.Save();
 
         }
 
